@@ -55,7 +55,7 @@
 
 
 #stepsIcon {
-  fill: cornflowerblue;
+  fill: cyan;
   width: 32;
   height: 32;
   x:35;
@@ -70,5 +70,5 @@
   text-anchor: start;
   x: 85;
   y: 260+37;
-  fill: cornflowerblue;
+  fill: cyan;
 }
