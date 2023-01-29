@@ -1,0 +1,74 @@
+.background {
+  viewport-fill: black;
+}
+
+
+#dateText {
+  font-size: 28;
+  font-family: Colfax;
+  text-length: 55;
+  text-anchor: middle;
+  x: 50%;
+  y: 10%;
+  fill: white;
+}
+
+#hoursMinutesText {
+  font-size: 105;
+  font-family: Colfax;
+  text-length: 33;
+  text-anchor: middle;
+  x: 50%;
+  y: 47%;
+  fill: white;
+}
+
+#secondsText {
+  font-size: 40;
+  font-family: Colfax;
+  text-length: 35;
+  text-anchor: middle;
+  x: 88%+5;
+  y: 31%;
+  fill: white;
+}
+
+
+#heartRateIcon {
+  fill: red;
+  width: 32;
+  height: 32;
+  x:35;
+  y:195;
+}
+
+#heartRateText {
+  font-size: 60;
+  font-family: Colfax;
+  text-length: 4;
+  text-buffer: 32;
+  text-anchor: start;
+  x: 85;
+  y: 195+37;
+  fill: red;
+}
+
+
+#stepsIcon {
+  fill: cornflowerblue;
+  width: 32;
+  height: 32;
+  x:35;
+  y:260;
+}
+
+#stepsText {
+  font-size: 60;
+  font-family: Colfax;
+  text-length: 8;
+  text-buffer: 32;
+  text-anchor: start;
+  x: 85;
+  y: 260+37;
+  fill: cornflowerblue;
+}

@@ -1,0 +1,18 @@
+<svg class="background">
+  <g id="weekText">
+    <text id="weekLabelText">WEEK</text>
+  </g>
+  
+  <text id="weekNumText" />
+  <text id="dateText" />
+  <text id="hoursMinutesText" />
+  <svg id="hr"> 
+    <image id="heartRateIcon" class="icon" href="icons/stat_hr_solid_32px.png"/>
+  </svg> 
+  <text id="heartRateText" />
+  <svg id="steps"> 
+    <image id="stepsIcon" class="icon" href="icons/stat_steps_solid_32px.png"/>
+  </svg> 
+  <text id="stepsText" />
+
+</svg>

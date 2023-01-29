@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~6.1.0"
+  },
+  "fitbit": {
+    "appUUID": "9c51d60d-4091-440a-babc-470448f8d2b1",
+    "appType": "clockface",
+    "appDisplayName": "Anne's Simple Watchface v1",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_calendar",
+      "access_activity",
+      "access_user_profile"
+    ],
+    "buildTargets": [
+      "atlas"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Anne's Simple Watchface v1"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
